@@ -1,6 +1,6 @@
 # MoDS: Mathematics of Data Science
 
-![alt text](math-of-data-16-4.png "")
+![alt text](math-of-data-gt.png "")
 
 
 **Course number:** Math 16:642:611 - Select Topics in Applied Math
