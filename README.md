@@ -1,6 +1,6 @@
 # MoDS: Mathematics of Data Science
 
-**Course number:** 16:642:611 - Select Topics in Applied Math
+**Course number:** Math 16:642:611 - Select Topics in Applied Math
 
 **Semester:** Spring 2025
 
