@@ -35,4 +35,6 @@
 + Dress, A., 2012. Basic phylogenetic combinatorics. Cambridge University Press.
 + Villani, C., 2009. Optimal transport: old and new (Vol. 338, p. 23). Berlin: springer.
 + Sturm, K.T., 2023. The space of spaces: curvature bounds and gradient flows on the space of metric measure spaces (Vol. 290, No. 1443). American Mathematical Society.
++ Mémoli, F., Wan, Z. and Wang, Y., 2022. Persistent Laplacians: Properties, algorithms and implications. SIAM Journal on Mathematics of Data Science, 4(2), pp.858-884.
++ Lim, L.H., 2020. Hodge Laplacians on graphs. Siam Review, 62(3), pp.685-715.
      
