@@ -6,6 +6,7 @@
 **Course number:** Math 16:642:611 - Select Topics in Applied Math
 
 **Semester:** Spring 2025
+**Day/time:** TBA
 
 **Number of credits:** 3
 
