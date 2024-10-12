@@ -31,4 +31,7 @@
 + Bérard, Pierre, Gérard Besson, and Sylvain Gallot. "Embedding Riemannian manifolds by their heat kernel." Geometric & Functional Analysis GAFA 4 (1994): 373-398.
 + Coifman, Ronald R., and Stéphane Lafon. "Diffusion maps." Applied and computational harmonic analysis 21.1 (2006): 5-30.
 + Kim, W. and Memoli, F. Persistence over posets. AMS Notices https://www.ams.org/notices/202308/rnoti-p1214.pdf.
++ Phylogenetics. Semple, Charles, and Mike Steel. Phylogenetics. Vol. 24. Oxford University Press on Demand, 2003.
++ Dress, A., 2012. Basic phylogenetic combinatorics. Cambridge University Press.
++ Villani, C., 2009. Optimal transport: old and new (Vol. 338, p. 23). Berlin: springer.
      
