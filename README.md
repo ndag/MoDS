@@ -7,7 +7,7 @@
 
 **Semester:** Spring 2025
 
-**Day/time:** TBA
+**Day/time and classroom:** TBA
 
 **Number of credits:** 3
 
