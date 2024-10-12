@@ -30,3 +30,5 @@
 + Chazal, Frédéric, Vin De Silva, and Steve Oudot. "Persistence stability for geometric complexes." Geometriae Dedicata 173.1 (2014): 193-214. 
 + Bérard, Pierre, Gérard Besson, and Sylvain Gallot. "Embedding Riemannian manifolds by their heat kernel." Geometric & Functional Analysis GAFA 4 (1994): 373-398.
 + Coifman, Ronald R., and Stéphane Lafon. "Diffusion maps." Applied and computational harmonic analysis 21.1 (2006): 5-30.
++ Kim, W. and Memoli, F. Persistence over posets. AMS Notices https://www.ams.org/notices/202308/rnoti-p1214.pdf.
+     
