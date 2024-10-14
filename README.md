@@ -15,7 +15,7 @@
 
 **Instructor:**  Facundo Mémoli
 
-**Course description:** This course will explore various ideas from geometry and topology that have manifestations in Data Science. Examples include: Multidimensional Scaling, Hierarchical Clustering, Shape comparison through the Gromov-Hausdorff distance, Persistent Homology of metric spaces, Optimal Transport through the notions of the Wassertsein distance between probability measures and the Gromov-Wasserstein distance between metric measure spaces, as well as spectral methods as those used in Diffusion Geometry.  The choice of topics will be partly determined by the interest of participants in the course.
+**Course description:** This course will explore various ideas from geometry and topology that have manifestations in Data Science. Examples include: Multidimensional Scaling, Hierarchical Clustering, Shape comparison through the Gromov-Hausdorff distance, Persistent Homology of metric spaces, Optimal Transport through the notions of the Wassertsein distance between probability measures and the Gromov-Wasserstein distance between metric measure spaces, as well as spectral methods such as those used in Diffusion Geometry.  The choice of topics will be partly determined by the interest of participants in the course.
 
 **Prerequisites:** undergraduate courses in topology, algebra and analysis.
 
